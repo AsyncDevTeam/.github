@@ -12,8 +12,11 @@ Our goal is to pool our skills to design useful solutions in many areas.
   <img src="https://media.giphy.com/media/QT6CeONcZNmpNozgQN/giphy.gif" width="30"/>
 </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalphax&layout=compact&custom_title=Royalphax)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasvaillant&layout=compact&custom_title=NicolasVaillant)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Charles-84&layout=compact&custom_title=Charles84)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsiZ&layout=compact&custom_title=IsiZ_)](https://github.com/anuraghazra/github-readme-stats)
 
